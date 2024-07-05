@@ -1,24 +1,9 @@
-## Hi there 👋
+## Howdy! I'm Dylan <img src="https://slackmojis.com/emojis/60771-blue-heart/download" width="25"/> <img src="https://slackmojis.com/emojis/60763-black-heart/download" width="25"/> <img src="https://slackmojis.com/emojis/60771-blue-heart/download" width="25"/>
 
-<!--
-**boyomoyd/boyomoyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Howdy! I'm Dylan 👋🏿
 I am a bilingual (English and French) Software Engineer based in Canada, with a knack for combining technical know-how and design to create sleek applications. My goal is to build scalable software while crafting engaging user experiences that dazzle and delight!
 
 Outside of coding, you might catch me intensely staring at my screen, either debugging like a detective or contemplating life's toughest decision: what's for lunch? Connect with me on LinkedIn for tech chats or drop me an email—let's chat about software, food, or the latest tech gossip!
 
-📫 Contact
-LinkedIn: dylanboyomoyakana
-Email: dylanboyomod@gmail.com
+## Contact
+- LinkedIn: dylanboyomoyakana
+- Email: dylanboyomod@gmail.com
