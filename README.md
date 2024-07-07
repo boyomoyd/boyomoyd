@@ -1,4 +1,4 @@
-## Howdy! I'm Dylan <img src="https://slackmojis.com/emojis/60771-blue-heart/download" width="25"/> <img src="https://slackmojis.com/emojis/60763-black-heart/download" width="25"/> <img src="https://slackmojis.com/emojis/60771-blue-heart/download" width="25"/>
+## Howdy! I'm Dylan <img src="https://slackmojis.com/emojis/60771-blue-heart/download" width="25"/> 
 
 I am a bilingual (English and French) Software Engineer based in Canada, with a knack for combining technical know-how and design to create sleek applications. My goal is to build scalable software while crafting engaging user experiences that dazzle and delight!
 
