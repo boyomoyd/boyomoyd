@@ -5,5 +5,5 @@ I am a bilingual (English and French) Software Engineer based in Canada, with a 
 Outside of coding, you might catch me intensely staring at my screen, either debugging like a detective or contemplating life's toughest decision: what's for lunch? Connect with me on LinkedIn for tech chats or drop me an email—let's chat about software, food, or the latest tech gossip!
 
 ## Contact
-- LinkedIn: dylanboyomoyakana
+- LinkedIn: dyakana
 - Email: dylanboyomod@gmail.com
